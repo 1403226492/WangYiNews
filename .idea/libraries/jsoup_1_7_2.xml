@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="jsoup-1.7.2">
+    <CLASSES>
+      <root url="jar://D:/softtools/jar包/json.jar!/" />
+      <root url="jar://D:/softtools/jar包/commons-lang3-3.4.jar!/" />
+      <root url="jar://D:/softtools/jar包/gson-2.2.4.jar!/" />
+      <root url="jar://D:/softtools/jar包/java-json.jar!/" />
+      <root url="jar://D:/softtools/jar包/json_simple-1.1.jar!/" />
+      <root url="jar://D:/softtools/jar包/jsoup-1.7.2.jar!/" />
+      <root url="jar://D:/softtools/jar包/JSONObject与JSONArray使用中所需要的完全jar包/JSONObject与JSONArray使用中所需要的完全jar包/commons-beanutils.jar!/" />
+      <root url="jar://D:/softtools/jar包/JSONObject与JSONArray使用中所需要的完全jar包/JSONObject与JSONArray使用中所需要的完全jar包/commons-collections-3.1.jar!/" />
+      <root url="jar://D:/softtools/jar包/JSONObject与JSONArray使用中所需要的完全jar包/JSONObject与JSONArray使用中所需要的完全jar包/commons-lang.jar!/" />
+      <root url="jar://D:/softtools/jar包/JSONObject与JSONArray使用中所需要的完全jar包/JSONObject与JSONArray使用中所需要的完全jar包/commons-logging.jar!/" />
+      <root url="jar://D:/softtools/jar包/JSONObject与JSONArray使用中所需要的完全jar包/JSONObject与JSONArray使用中所需要的完全jar包/ezmorph-1.0.6.jar!/" />
+      <root url="jar://D:/softtools/jar包/JSONObject与JSONArray使用中所需要的完全jar包/JSONObject与JSONArray使用中所需要的完全jar包/json-lib-2.2.2-jdk15.jar!/" />
+      <root url="jar://D:/softtools/jar包/mysql-connector-java-5.1.35.jar!/" />
+      <root url="jar://D:/softtools/jar包/MongoJar/MongoJar/commons-lang3-3.0.1.jar!/" />
+      <root url="jar://D:/softtools/jar包/MongoJar/MongoJar/mongo-2.10.1.jar!/" />
+      <root url="jar://D:/softtools/jar包/MongoJar/MongoJar/mongo-java-driver-2.5.jar!/" />
+      <root url="jar://D:/softtools/jar包/fastjson-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/softtools/jar包/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>
